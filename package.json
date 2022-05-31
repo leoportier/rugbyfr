@@ -1,0 +1,24 @@
+{
+  "name": "rugbybot",
+  "version": "1.0.0",
+  "description": "Les infos en direct sur le rugby francais",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leoportier/rugbyfr.git"
+  },
+  "author": "leoportier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leoportier/rugbyfr/issues"
+  },
+  "homepage": "https://github.com/leoportier/rugbyfr#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "discord.js": "^13.7.0",
+    "dotenv": "^16.0.1"
+  }
+}
